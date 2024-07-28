@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git depositry
 <br>
-Author chiku-yadav
+Author chiku-yadav(student)
